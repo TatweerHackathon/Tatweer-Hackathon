@@ -24,7 +24,7 @@ Keep this context in mind. The best projects feel built for this place and its p
 
 ## The challenge track
 
-The track is **digital solutions for rural communities**. Pick **one** of the five challenges below and build for it. All five are judged on the same criteria and carry equal weight. We offer a range so you can choose where your skills show best. Low code solutions and deeply technical ones are judged equally. What matters is the value you create and how well you prove it.
+The track is **Solutions for rural communities**. Pick **one** of the five challenges below and build for it. All five are judged on the same criteria and carry equal weight. We offer a range so you can choose where your skills show best. Low code solutions and deeply technical ones are judged equally. What matters is the value you create and how well you prove it.
 
 ---
 
