@@ -6,7 +6,7 @@ Welcome to Tatweer Hackathon. Over one weekend you will build a real digital sol
 
 - **Website:** tatweerhackathon.com
 - **Contact:** contact@tatweerhackathon.com
-- **Submission form:** _link will be shared here and by email_
+- **Submission form:** https://docs.google.com/forms/d/e/1FAIpQLSfCKAnadox1D7TGra7wDbiDJJOpQkB3ZOP8RocbHSVi8Zu88w/viewform
 
 ---
 
@@ -24,7 +24,7 @@ Keep this context in mind. The best projects feel built for this place and its p
 
 ## The challenge track
 
-The track is **Solutions for rural communities**. Pick **one** of the five challenges below and build for it. All five are judged on the same criteria and carry equal weight. We offer a range so you can choose where your skills show best. Low code solutions and deeply technical ones are judged equally. What matters is the value you create and how well you prove it.
+The track is **digital solutions for rural communities**. Pick **one** of the five challenges below and build for it. All five are judged on the same criteria and carry equal weight. We offer a range so you can choose where your skills show best. Low code solutions and deeply technical ones are judged equally. What matters is the value you create and how well you prove it.
 
 ---
 
@@ -87,7 +87,15 @@ Your repository README is how you are understood and scored. It must cover all o
 
 ## How to submit
 
-You submit through a form that asks for the link to your project's GitHub repository. The form link will be posted here and sent to all participants. Keep your repository public and ready to share, and submit before the deadline. Late submissions are not counted.
+You submit through a form that asks for the link to your project's GitHub repository.
+
+**Submission form:** https://docs.google.com/forms/d/e/1FAIpQLSfCKAnadox1D7TGra7wDbiDJJOpQkB3ZOP8RocbHSVi8Zu88w/viewform
+
+Keep your repository public and ready to share, and submit before the deadline. Late submissions are not counted.
+
+**One submission, no resubmitting.** You submit once, and that submission stands. There is no second submission and no way to swap it out later. You may keep refining your repository up to the deadline, since only commits before Saturday 8:00 PM GST count. After that, only the top 10 continue, and they may keep finalizing until they arrive at the venue on Sunday, when their work is locked.
+
+**Present in Arabic or English.** Teams who reach the live round may present in either language. The judges are bilingual and there is no penalty either way.
 
 ## Key dates (UAE time, GST)
 
